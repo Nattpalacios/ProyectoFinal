@@ -1,0 +1,11 @@
+Lineas de Invasores: 5
+Calamar
+Cangrejo
+Cangrejo
+Pulpo
+Pulpo
+Numero de Barreras: 4
+Roja
+Verde
+Roja
+Verde

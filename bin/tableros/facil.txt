@@ -1,0 +1,5 @@
+Lineas de Invasores: 2
+Cangrejo
+Calamar
+Numero de Barreras: 1
+Roja

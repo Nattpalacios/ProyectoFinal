@@ -1,0 +1,6 @@
+Lineas de Invasores: 3
+Calamar
+Calamar
+Calamar
+Numero de Barreras: 1
+Roja
